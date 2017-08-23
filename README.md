@@ -1,3 +1,3 @@
 # hello-world
-first trial to using github
+first trial to use github
 print hello,world
